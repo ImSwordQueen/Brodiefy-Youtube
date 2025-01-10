@@ -2,6 +2,8 @@
 
 # Brodiefy
 
+![image](https://github.com/user-attachments/assets/85f64b3b-bc06-46bb-8608-c08b4ce3ae0c)
+
 Is your browser experience boring? Are you having  
 trouble finding engaging click-baity linux videos?
 
@@ -9,9 +11,6 @@ trouble finding engaging click-baity linux videos?
 
 This extension adds the famous  
 linux youtuber **Brodie Robertson** to every thumbnail.
-
-[![Button Download Firefox]][Download Firefox]  
-[![Button Download Chrome]][Download Chrome]  
 
 </div>
 
