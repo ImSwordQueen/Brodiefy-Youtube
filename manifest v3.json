@@ -1,11 +1,11 @@
 {
     "manifest_version": 3,
-    "name": "YouTube MrBeastify",
+    "name": "YouTube Brodiefy",
     "version": "1.7.5",
     "icons": {
         "96": "icon.png"
     },
-    "description": "Modify YouTube thumbnails to include MrBeast",
+    "description": "Modify YouTube thumbnails to include Brodie Robertson",
     "action": {
         "default_popup": "settings.html"
     },
@@ -15,7 +15,7 @@
     "host_permissions": ["*://*.youtube.com/*"],
     "content_scripts": [{
         "matches": ["*://*.youtube.com/*"],
-        "js": ["mrbeastify.js"],
+        "js": ["brodiefy.js"],
         "run_at": "document_idle"
     }],
     "web_accessible_resources": [{
